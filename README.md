@@ -7,8 +7,10 @@
 <img align="start" src="https://github-readme-stats.vercel.app/api?username=OsaeAddo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Osae's Github Stats">
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksongabriel&hide=css&show_icons=true&theme=radical)](https://github.com/rocksongabriel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsaeAddo&hide=css&show_icons=true&theme=radical)](https://github.com/OsaeAddo)
 
+  [Netlify](https://www.netlify.com/)
+ 
 ***
 
 ## <i>Connect with me web wide</i><br>
