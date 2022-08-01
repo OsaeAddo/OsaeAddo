@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Osae, a Fullstack Developer in Python & Javascript
----
+
 <div align="start">
 
 ![Pawpaw](https://media.giphy.com/media/0yXjVvEM2VWUX2CWpE/giphy.gif)
