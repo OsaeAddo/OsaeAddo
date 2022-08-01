@@ -2,6 +2,8 @@
 ---
 <div align="start">
 
+![Pawpaw](https://media.giphy.com/media/0yXjVvEM2VWUX2CWpE/giphy.gif)
+
 ## 🔭 I’m currently working on
 <h3>Slime:</h3>
 <ul>
