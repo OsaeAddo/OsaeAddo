@@ -1,6 +1,19 @@
-### Hi there 👋, I'm Osae, Fullstack Developer in Python & Javascript
-
+## Hi there 👋, I'm Osae, a Fullstack Developer in Python & Javascript
+---
 <div align="start">
+
+## 🔭 I’m currently working on
+<h3>Slime:</h3>
+<ul>
+  <li>A Decentralized Finance crypto exchange platform</li>
+  <li>Stack: Solidity,Chainlink, Ropsten & React </li>
+</ul>
+
+<h3>L'orr:</h3>
+<ul>
+  <li>A fashion & ecommerce platform</li>
+  <li>Stack: Django-RESTAPI, React and PostgreSQL</li>
+</ul>
 
 ---
 # Skills & Tools
@@ -20,6 +33,27 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white)
+
+### Development Tools 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Containerization
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### My Operating Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
+
+#### My Editor
+![VsCode](https://img.shields.io/badge/VSCODE-blue.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<br>
 
 ***
 ## 📈 Stats 
@@ -37,7 +71,7 @@
  
 ***
 
-## <i>Connect with me web wide</i><br>
+## <i>Connect with me web wide </i>🌍 <br>
 
 <a href="https://www.linkedin.com/in/emmanuel-osae-addo" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Osae | LinkedIn">
