@@ -2,7 +2,7 @@
 
 <div align="start">
 
-![Pawpaw](https://media.giphy.com/media/0yXjVvEM2VWUX2CWpE/giphy.gif)
+![Pawpaw](https://media.giphy.com/media/2JeQO72XbrQk4wNdbp/giphy-downsized.gif)
 
 ## 🌱 I’m currently learning
 <ul>
