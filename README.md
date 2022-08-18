@@ -86,11 +86,11 @@
  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Osae | LinkedIn">
 </a>
 
-<a href="[https://twitter.com/ABSphreak](https://twitter.com/Osae__)" target="_blank">
+<a href="[https://twitter.com/Osae__](https://twitter.com/Osae__)" target="_blank">
  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Osae | Twitter">
 </a>
 
-<a href="[https://www.instagram.com/absphreak](https://www.instagram.com/osaeaddo_/)" target="_blank">
+<a href="[https://www.instagram.com/Osaeaddo_](https://www.instagram.com/osaeaddo_/)" target="_blank">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Osae | Instagram">
 </a>
 
