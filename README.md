@@ -15,7 +15,7 @@
 <h3>Slime:</h3>
 <ul>
   <li>A Decentralized Finance crypto exchange platform</li>
-  <li>Stack: Solidity,Chainlink, Ropsten & React </li>
+  <li>Stack: Solidity,Chainlink, Goerli faucet & React </li>
 </ul>
 
 <h3>L'orr:</h3>
