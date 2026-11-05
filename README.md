@@ -1,126 +1,39 @@
-## Hi there 👋, I'm Osae, a Fullstack Developer in Python & Javascript
+# Hi, I'm Emmanuel Osae-Addo
 
-<div align="start">
+**Software Engineer** focused on designing and building scalable, reliable & data-intensive systems, payment infrastructure, and blockchain.
 
-![Pawpaw](https://media.giphy.com/media/2JeQO72XbrQk4wNdbp/giphy-downsized.gif)
+Growing into an absolute unit of a cracked engineer :)
 
-## 🌱 I’m currently learning
-<ul>
-  <li>Financial Modeling & Valuations Analysis</li>
-  <li>Algorithms & Data Structures</li>
-  <li>Development in Reactjs</li>
-</ul>
+## Currently
+- Maintaining AshToken DAO (trading + commissions)
+- Designing and building scalable, reliable systems
+- Exploring system design patterns and payment infrastructure
+- Researching smart contract interactions and on-chain data workflows across EVM chains
 
-## 🔭 I’m currently working on
-<h3>Slime:</h3>
-<ul>
-  <li>A Decentralized Finance crypto exchange platform</li>
-  <li>Stack: Solidity,Chainlink, Goerli faucet & React </li>
-</ul>
+## Featured Projects
+- **[knowYourRep](#)**: Civic accountability platform. Cut p95 API latency by 96% (6000ms → sub-250ms) with IP/geo-gated ratings
+- **[Dackbets Casino](#)**: Provably fair crypto casino platform with HMAC-SHA256 verifiable outcomes and multi-currency wallets (BTC, ETH, USDT)
+- **[AshToken Onchain Data](#)**: Automated BSC transaction pipeline with a self-patching block-tracking state manager. Raised downline transaction capture from ~70% to 100%
 
-<h3>L'orr:</h3>
-<ul>
-  <li>A fashion & ecommerce platform</li>
-  <li>Stack: Django-RESTAPI, React and PostgreSQL</li>
-</ul>
+## Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![EVM](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white)
 
----
-# Skills & Tools
-### Backend Web Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-
-### Frontend Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white)
-
-### Development Tools 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Containerization
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### My Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
-
-#### My Editor
-![VsCode](https://img.shields.io/badge/VSCODE-blue.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br>
-
-***
-## 📈 Stats 
-### Github
-<img align="start" src="https://github-readme-stats.vercel.app/api?username=OsaeAddo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Osae's Github Stats">
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsaeAddo&hide=css&show_icons=true&theme=radical)](https://github.com/OsaeAddo)
-
-
-<!-- ### Wakatime -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
- 
-***
-
-## <i>Connect with me web wide </i>🌍 <br>
-
-<a href="https://www.linkedin.com/in/emmanuel-osae-addo" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Osae | LinkedIn">
-</a>
-
-<a href="https://twitter.com/Osae__" target="_blank">
- <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Osae | Twitter">
-</a>
-
-<a href="https://www.instagram.com/Osaeaddo_" target="_blank">
- <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Osae | Instagram">
-</a>
-
-
-<a href="https://open.spotify.com/user/313zvouzyyejcwxcvy74niiuuzka?si=8a2597a506af407e" target="_blank">
- <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Osae | Spotify">
-</a>
-
-<br />
-
-***
- 
-<!--  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OsaeAddo&repo=Url-shortening-api) -->
-</div>
-
-
-
-
-
-<!--
-**OsaeAddo/OsaeAddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- Email: immanueloaddo@gmail.com
+- X: [@O6meluduu](https://github.com/OsaeAddo)
