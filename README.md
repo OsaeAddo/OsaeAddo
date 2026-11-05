@@ -13,7 +13,7 @@ Growing into an absolute unit of a cracked engineer :)
 ## Featured Projects
 - **[knowYourRep](#)**: Civic accountability platform for rating MMDCE officials. Cut p95 API latency by 96% (6000ms → sub-250ms) with IP/geo-gated ratings
 - **[Dackbets Casino](#)**: Provably fair crypto casino platform with HMAC-SHA256 verifiable outcomes and multi-currency wallets (BTC, ETH, USDT)
-- **[AshToken Onchain Data](#)**: Automated BSC transaction pipeline with a self-patching block-tracking state manager. Raised downline transaction capture from ~70% to 100%
+- **[AshToken Onchain Data Pipeline](#)**: Automated BSC transaction pipeline with a self-patching block-tracking state manager. Raised downline transaction capture from ~70% to 100%
 
 ## Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -36,4 +36,4 @@ Growing into an absolute unit of a cracked engineer :)
 
 ## Connect
 - Email: immanueloaddo@gmail.com
-- X: [@O6meluduu](https://github.com/OsaeAddo)
+- X: [@O6meluduu](https://x.com/6meluduu)
